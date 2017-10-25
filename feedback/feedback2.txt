@@ -1,0 +1,9 @@
+Project Concept:
+1) Explain variables (factors) based on which offers are given
+2) Show a dummy json data.
+
+Project Plan:
+1) Deliverable is something that could be presented (update accordingly)
+
+General
+1) Remove extra files

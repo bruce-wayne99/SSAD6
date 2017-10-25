@@ -1,0 +1,4 @@
+There are 3 users who have spent more than or equal to 12 units
+1 : 58ef94230efce6f47b9c560e24f1028ed6644618
+2 : 3622beb0bcc4d0eb9fcff3c95931f631d998e8a8
+3 : 84800dfc016be1a84aae95075b163ce988ba1be8

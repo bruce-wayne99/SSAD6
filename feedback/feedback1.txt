@@ -1,0 +1,3 @@
+1) You are doing very well with your progress.
+2) Update your TA with weekly progress.
+3) Write proper and precise commit messages.
