@@ -1,0 +1,27 @@
+{
+  "store_items": [
+    {
+      "Name" : "Langur",
+      "price": 3,
+      "offerTypes": ["Cheat", "Price Utility"]
+    },
+    {
+      "Name": "Board",
+      "price": 5,
+      "offerTypes": ["Challenge" ,"Fun", "Cheat"
+      ]
+    },
+    {
+      "Name": "Jakala",
+      "price": 10,
+      "offerTypes": ["Functional", "Character Competency"
+      ]
+    },
+    {
+      "Name": "Hathi",
+      "price": 15,
+      "offerTypes": ["Fun", "Functional"
+      ]
+    }
+  ]
+}

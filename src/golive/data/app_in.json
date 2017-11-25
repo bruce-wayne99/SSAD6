@@ -1,0 +1,3330 @@
+{
+    "Data": [
+        {
+            "rtime": 1509516199, 
+            "eventTime": 1509535994, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516194454, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_01_2017 11:33:14"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_01_2017 11:33:14"
+            }, 
+            "createdAt": 1509516199, 
+            "utime": "1509516194"
+        }, 
+        {
+            "rtime": 1509516201, 
+            "eventTime": 1509535996, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516196156, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_01_2017 11:33:16"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_01_2017 11:33:16"
+            }, 
+            "createdAt": 1509516201, 
+            "utime": "1509516197"
+        }, 
+        {
+            "rtime": 1509516203, 
+            "eventTime": 1509535997, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516197786, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_01_2017 11:33:17"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_01_2017 11:33:17"
+            }, 
+            "createdAt": 1509516203, 
+            "utime": "1509516199"
+        }, 
+        {
+            "rtime": 1509516205, 
+            "eventTime": 1509536000, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516200954, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_01_2017 11:33:20"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_01_2017 11:33:20"
+            }, 
+            "createdAt": 1509516204, 
+            "utime": "1509516201"
+        }, 
+        {
+            "rtime": 1509516207, 
+            "eventTime": 1509536002, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516202535, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_01_2017 11:33:22"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_01_2017 11:33:22"
+            }, 
+            "createdAt": 1509516206, 
+            "utime": "1509516203"
+        }, 
+        {
+            "rtime": 1509516209, 
+            "eventTime": 1509536003, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516203932, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_01_2017 11:33:23"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_01_2017 11:33:23"
+            }, 
+            "createdAt": 1509516209, 
+            "utime": "1509516204"
+        }, 
+        {
+            "rtime": 1509516210, 
+            "eventTime": 1509535999, 
+            "user_id": "28c2ec07bfd8c543fcce53925ab0994f6ebeaa0d", 
+            "did": "d7c67cd7-abc1-48a5-8301-b82dbfd1196c", 
+            "mtimestamp": 1509516199396, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4f355d8a-4d9d-437b-a094-1d76323f46be", 
+            "attributes": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_01_2017 11:33:19"
+            }, 
+            "segment": {
+                "PlayerId": "c1d6e4f3bda088ea167e357b6d7d2174", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_01_2017 11:33:19"
+            }, 
+            "createdAt": 1509516211, 
+            "utime": "1509516206"
+        }, 
+        {
+            "rtime": 1509530342, 
+            "eventTime": 1509550134, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509530334840, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_01_2017 15:28:54"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_01_2017 15:28:54"
+            }, 
+            "createdAt": 1509530341, 
+            "utime": "1509530335"
+        }, 
+        {
+            "rtime": 1509530598, 
+            "eventTime": 1509550394, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509530594050, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "lali", 
+                "TimeOfEvent": "11_01_2017 15:33:14"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "Lali", 
+                "TimeOfEvent": "11_01_2017 15:33:14"
+            }, 
+            "createdAt": 1509530599, 
+            "utime": "1509530594"
+        }, 
+        {
+            "rtime": 1509530786, 
+            "eventTime": 1509550581, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509530781986, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_01_2017 15:36:21"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_01_2017 15:36:21"
+            }, 
+            "createdAt": 1509530786, 
+            "utime": "1509530782"
+        }, 
+        {
+            "rtime": 1509530968, 
+            "eventTime": 1509550762, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509530962883, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_01_2017 15:39:22"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_01_2017 15:39:22"
+            }, 
+            "createdAt": 1509530968, 
+            "utime": "1509530963"
+        }, 
+        {
+            "rtime": 1509531136, 
+            "eventTime": 1509550931, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509531131054, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_01_2017 15:42:11"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_01_2017 15:42:11"
+            }, 
+            "createdAt": 1509531136, 
+            "utime": "1509531131"
+        }, 
+        {
+            "rtime": 1509531319, 
+            "eventTime": 1509551113, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509531313481, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_01_2017 15:45:13"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_01_2017 15:45:13"
+            }, 
+            "createdAt": 1509531319, 
+            "utime": "1509531313"
+        }, 
+        {
+            "rtime": 1509531698, 
+            "eventTime": 1509551492, 
+            "user_id": "a77a9e8d3d3ff032bec78eb6452de0d107ab9bb8", 
+            "did": "dc6e412f-c37d-4d93-a825-26033ea98d2b", 
+            "mtimestamp": 1509531692799, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1195052-e40b-4df7-8fb5-d3ed09a797f8", 
+            "attributes": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_01_2017 15:51:32"
+            }, 
+            "segment": {
+                "PlayerId": "7e914a86ca4812527cf924cde2dc2197", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_01_2017 15:51:32"
+            }, 
+            "createdAt": 1509531698, 
+            "utime": "1509531693"
+        }, 
+        {
+            "rtime": 1509532927, 
+            "eventTime": 1509552722, 
+            "user_id": "e072aaeb2775d01e04f8b2a546f668a10cdf1a61", 
+            "did": "c3f9fe88-6f41-4df0-8e46-dc0244cfef5a", 
+            "mtimestamp": 1509532922574, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c3362214-d7af-4dde-a926-4430df00e7e0", 
+            "attributes": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_01_2017 16:12:02"
+            }, 
+            "segment": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_01_2017 16:12:02"
+            }, 
+            "createdAt": 1509532927, 
+            "utime": "1509532922"
+        }, 
+        {
+            "rtime": 1509533826, 
+            "eventTime": 1509553621, 
+            "user_id": "eed2b2daf94cb3783d88b200b515a842ca394693", 
+            "did": "c209a0eb-35f0-4873-b911-af09b5851f90", 
+            "mtimestamp": 1509533821376, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1793f5a-9de8-4b05-875a-1c5023731531", 
+            "attributes": {
+                "PlayerId": "285dcd257aea8961681f78c57b115b5e", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_01_2017 16:27:01"
+            }, 
+            "segment": {
+                "PlayerId": "285dcd257aea8961681f78c57b115b5e", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_01_2017 16:27:01"
+            }, 
+            "createdAt": 1509533826, 
+            "utime": "1509533821"
+        }, 
+        {
+            "rtime": 1509533829, 
+            "eventTime": 1509553622, 
+            "user_id": "eed2b2daf94cb3783d88b200b515a842ca394693", 
+            "did": "c209a0eb-35f0-4873-b911-af09b5851f90", 
+            "mtimestamp": 1509533822952, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1793f5a-9de8-4b05-875a-1c5023731531", 
+            "attributes": {
+                "PlayerId": "285dcd257aea8961681f78c57b115b5e", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_01_2017 16:27:02"
+            }, 
+            "segment": {
+                "PlayerId": "285dcd257aea8961681f78c57b115b5e", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_01_2017 16:27:02"
+            }, 
+            "createdAt": 1509533829, 
+            "utime": "1509533824"
+        }, 
+        {
+            "rtime": 1509533852, 
+            "eventTime": 1509553646, 
+            "user_id": "eed2b2daf94cb3783d88b200b515a842ca394693", 
+            "did": "c209a0eb-35f0-4873-b911-af09b5851f90", 
+            "mtimestamp": 1509533846159, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e1793f5a-9de8-4b05-875a-1c5023731531", 
+            "attributes": {
+                "PlayerId": "285dcd257aea8961681f78c57b115b5e", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_01_2017 16:27:26"
+            }, 
+            "segment": {
+                "PlayerId": "285dcd257aea8961681f78c57b115b5e", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_01_2017 16:27:26"
+            }, 
+            "createdAt": 1509533851, 
+            "utime": "1509533846"
+        }, 
+        {
+            "rtime": 1509534827, 
+            "eventTime": 1509538424, 
+            "user_id": "6a5f8e7ea32522cc124320967a6b48a2f881be00", 
+            "did": "ec32747a-f943-42c1-bbf3-402b80b1a7e9", 
+            "mtimestamp": 1509534824089, 
+            "key": "CharacterUnlockCount", 
+            "sid": "", 
+            "attributes": {
+                "PlayerId": "d78d1fde3ca0f2c3899f63bde05d7855", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_01_2017 12:13:44"
+            }, 
+            "segment": {
+                "PlayerId": "d78d1fde3ca0f2c3899f63bde05d7855", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_01_2017 12:13:44"
+            }, 
+            "createdAt": 1509534827, 
+            "utime": "1509534824"
+        }, 
+        {
+            "rtime": 1509534831, 
+            "eventTime": 1509538428, 
+            "user_id": "6a5f8e7ea32522cc124320967a6b48a2f881be00", 
+            "did": "ec32747a-f943-42c1-bbf3-402b80b1a7e9", 
+            "mtimestamp": 1509534828220, 
+            "key": "CharacterUnlockCount", 
+            "sid": "", 
+            "attributes": {
+                "PlayerId": "d78d1fde3ca0f2c3899f63bde05d7855", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_01_2017 12:13:48"
+            }, 
+            "segment": {
+                "PlayerId": "d78d1fde3ca0f2c3899f63bde05d7855", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_01_2017 12:13:48"
+            }, 
+            "createdAt": 1509534831, 
+            "utime": "1509534828"
+        }, 
+        {
+            "rtime": 1509544708, 
+            "eventTime": 1509546541, 
+            "user_id": "16453342ce8eab6030b650581aea2781677e164a", 
+            "did": "ad2227aa-9428-4f28-a959-8a359b886519", 
+            "mtimestamp": 1509526741314, 
+            "key": "CharacterUnlockCount", 
+            "sid": "f1a8d672-8cc1-4af4-aabd-746488dcc2e2", 
+            "attributes": {
+                "PlayerId": "46d9e9db436db89078b6e295e5e6f8da", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_01_2017 14:29:01"
+            }, 
+            "segment": {
+                "PlayerId": "46d9e9db436db89078b6e295e5e6f8da", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_01_2017 14:29:01"
+            }, 
+            "createdAt": 1509544708, 
+            "utime": "1509544703"
+        }, 
+        {
+            "rtime": 1509547378, 
+            "eventTime": 1509567172, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509547372099, 
+            "key": "CharacterUnlockCount", 
+            "sid": "71bb291d-322b-4d03-973b-c2d614cafe1b", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_01_2017 20:12:52"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_01_2017 20:12:52"
+            }, 
+            "createdAt": 1509547378, 
+            "utime": "1509547372"
+        }, 
+        {
+            "rtime": 1509547907, 
+            "eventTime": 1509567701, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509547901405, 
+            "key": "CharacterUnlockCount", 
+            "sid": "71bb291d-322b-4d03-973b-c2d614cafe1b", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "lali", 
+                "TimeOfEvent": "11_01_2017 20:21:41"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "Lali", 
+                "TimeOfEvent": "11_01_2017 20:21:41"
+            }, 
+            "createdAt": 1509547907, 
+            "utime": "1509547901"
+        }, 
+        {
+            "rtime": 1509548259, 
+            "eventTime": 1509568053, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509548253487, 
+            "key": "CharacterUnlockCount", 
+            "sid": "71bb291d-322b-4d03-973b-c2d614cafe1b", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_01_2017 20:27:33"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_01_2017 20:27:33"
+            }, 
+            "createdAt": 1509548260, 
+            "utime": "1509548253"
+        }, 
+        {
+            "rtime": 1509548262, 
+            "eventTime": 1509568056, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509548256521, 
+            "key": "CharacterUnlockCount", 
+            "sid": "71bb291d-322b-4d03-973b-c2d614cafe1b", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_01_2017 20:27:36"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_01_2017 20:27:36"
+            }, 
+            "createdAt": 1509548262, 
+            "utime": "1509548256"
+        }, 
+        {
+            "rtime": 1509556943, 
+            "eventTime": 1509560554, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509556954130, 
+            "key": "CharacterUnlockCount", 
+            "sid": "a6a0a659-ab90-4c86-8fa4-5d77265c1cdf", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_01_2017 18:22:34"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_01_2017 18:22:34"
+            }, 
+            "createdAt": 1509556943, 
+            "utime": "1509556954"
+        }, 
+        {
+            "rtime": 1509557585, 
+            "eventTime": 1509561197, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509557597383, 
+            "key": "CharacterUnlockCount", 
+            "sid": "752c945e-b120-4571-a5a1-cdd6d104db48", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_01_2017 18:33:17"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_01_2017 18:33:17"
+            }, 
+            "createdAt": 1509557586, 
+            "utime": "1509557597"
+        }, 
+        {
+            "rtime": 1509557595, 
+            "eventTime": 1509561207, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509557607555, 
+            "key": "CharacterUnlockCount", 
+            "sid": "752c945e-b120-4571-a5a1-cdd6d104db48", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_01_2017 18:33:27"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_01_2017 18:33:27"
+            }, 
+            "createdAt": 1509557595, 
+            "utime": "1509557607"
+        }, 
+        {
+            "rtime": 1509557602, 
+            "eventTime": 1509561213, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509557613566, 
+            "key": "CharacterUnlockCount", 
+            "sid": "752c945e-b120-4571-a5a1-cdd6d104db48", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_01_2017 18:33:33"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_01_2017 18:33:33"
+            }, 
+            "createdAt": 1509557602, 
+            "utime": "1509557613"
+        }, 
+        {
+            "rtime": 1509557610, 
+            "eventTime": 1509561222, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509557622303, 
+            "key": "CharacterUnlockCount", 
+            "sid": "752c945e-b120-4571-a5a1-cdd6d104db48", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_01_2017 18:33:42"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_01_2017 18:33:42"
+            }, 
+            "createdAt": 1509557611, 
+            "utime": "1509557622"
+        }, 
+        {
+            "rtime": 1509557612, 
+            "eventTime": 1509561224, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509557624649, 
+            "key": "CharacterUnlockCount", 
+            "sid": "752c945e-b120-4571-a5a1-cdd6d104db48", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_01_2017 18:33:44"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_01_2017 18:33:44"
+            }, 
+            "createdAt": 1509557612, 
+            "utime": "1509557624"
+        }, 
+        {
+            "rtime": 1509557615, 
+            "eventTime": 1509561226, 
+            "user_id": "1e7e8b5513d54fd6ebf7fc205e3f83786e54703e", 
+            "did": "55caa632-29d3-4231-bb22-4318538a6a90", 
+            "mtimestamp": 1509557626661, 
+            "key": "CharacterUnlockCount", 
+            "sid": "752c945e-b120-4571-a5a1-cdd6d104db48", 
+            "attributes": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_01_2017 18:33:46"
+            }, 
+            "segment": {
+                "PlayerId": "79a70d48220d440f8b0d0b56c1d94994", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_01_2017 18:33:46"
+            }, 
+            "createdAt": 1509557615, 
+            "utime": "1509557626"
+        }, 
+        {
+            "rtime": 1509558263, 
+            "eventTime": 1509568736, 
+            "user_id": "e0046e423eb1d14019fbe22ac599a976a0576624", 
+            "did": "84dad436-6529-4a90-92fe-a0c3947bebba", 
+            "mtimestamp": 1509557936525, 
+            "key": "CharacterUnlockCount", 
+            "sid": "0b3a1652-345e-4ec0-aea8-f4c3d65e15c1", 
+            "attributes": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_01_2017 20:38:56"
+            }, 
+            "segment": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_01_2017 20:38:56"
+            }, 
+            "createdAt": 1509558264, 
+            "utime": "1509557936"
+        }, 
+        {
+            "rtime": 1509558267, 
+            "eventTime": 1509568738, 
+            "user_id": "e0046e423eb1d14019fbe22ac599a976a0576624", 
+            "did": "84dad436-6529-4a90-92fe-a0c3947bebba", 
+            "mtimestamp": 1509557938079, 
+            "key": "CharacterUnlockCount", 
+            "sid": "0b3a1652-345e-4ec0-aea8-f4c3d65e15c1", 
+            "attributes": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_01_2017 20:38:58"
+            }, 
+            "segment": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_01_2017 20:38:58"
+            }, 
+            "createdAt": 1509558267, 
+            "utime": "1509557938"
+        }, 
+        {
+            "rtime": 1509558268, 
+            "eventTime": 1509568739, 
+            "user_id": "e0046e423eb1d14019fbe22ac599a976a0576624", 
+            "did": "84dad436-6529-4a90-92fe-a0c3947bebba", 
+            "mtimestamp": 1509557939703, 
+            "key": "CharacterUnlockCount", 
+            "sid": "0b3a1652-345e-4ec0-aea8-f4c3d65e15c1", 
+            "attributes": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_01_2017 20:38:59"
+            }, 
+            "segment": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_01_2017 20:38:59"
+            }, 
+            "createdAt": 1509558269, 
+            "utime": "1509557941"
+        }, 
+        {
+            "rtime": 1509558273, 
+            "eventTime": 1509568742, 
+            "user_id": "e0046e423eb1d14019fbe22ac599a976a0576624", 
+            "did": "84dad436-6529-4a90-92fe-a0c3947bebba", 
+            "mtimestamp": 1509557942038, 
+            "key": "CharacterUnlockCount", 
+            "sid": "0b3a1652-345e-4ec0-aea8-f4c3d65e15c1", 
+            "attributes": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "lali", 
+                "TimeOfEvent": "11_01_2017 20:39:02"
+            }, 
+            "segment": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "Lali", 
+                "TimeOfEvent": "11_01_2017 20:39:02"
+            }, 
+            "createdAt": 1509558273, 
+            "utime": "1509557943"
+        }, 
+        {
+            "rtime": 1509558275, 
+            "eventTime": 1509568744, 
+            "user_id": "e0046e423eb1d14019fbe22ac599a976a0576624", 
+            "did": "84dad436-6529-4a90-92fe-a0c3947bebba", 
+            "mtimestamp": 1509557944697, 
+            "key": "CharacterUnlockCount", 
+            "sid": "0b3a1652-345e-4ec0-aea8-f4c3d65e15c1", 
+            "attributes": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_01_2017 20:39:04"
+            }, 
+            "segment": {
+                "PlayerId": "9c1c66ccd43be5e853f98734d70e7c79", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_01_2017 20:39:04"
+            }, 
+            "createdAt": 1509558275, 
+            "utime": "1509557947"
+        }, 
+        {
+            "rtime": 1509586290, 
+            "eventTime": 1509606083, 
+            "user_id": "c1cafd1d11c83875d90f3ad6f436dc6874ff2238", 
+            "did": "03967e0e-82dc-4108-937d-9fd03d46e6f4", 
+            "mtimestamp": 1509586283762, 
+            "key": "CharacterUnlockCount", 
+            "sid": "", 
+            "attributes": {
+                "PlayerId": "1168958ec62e42721c40c3c148b60cc9", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_02_2017 07:01:23"
+            }, 
+            "segment": {
+                "PlayerId": "1168958ec62e42721c40c3c148b60cc9", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_02_2017 07:01:23"
+            }, 
+            "createdAt": 1509586290, 
+            "utime": "1509586283"
+        }, 
+        {
+            "rtime": 1509589525, 
+            "eventTime": 1509609320, 
+            "user_id": "ef5ca77ccb6d6f7563b28919ba79075ae367de5d", 
+            "did": "689a5018-4bf0-4987-8897-9b0309da7e6c", 
+            "mtimestamp": 1509589520352, 
+            "key": "CharacterUnlockCount", 
+            "sid": "652521b7-6a60-4ef6-8f83-ea9e552fae0d", 
+            "attributes": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_02_2017 07:55:20"
+            }, 
+            "segment": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_02_2017 07:55:20"
+            }, 
+            "createdAt": 1509589526, 
+            "utime": "1509589520"
+        }, 
+        {
+            "rtime": 1509589536, 
+            "eventTime": 1509609331, 
+            "user_id": "ef5ca77ccb6d6f7563b28919ba79075ae367de5d", 
+            "did": "689a5018-4bf0-4987-8897-9b0309da7e6c", 
+            "mtimestamp": 1509589531176, 
+            "key": "CharacterUnlockCount", 
+            "sid": "652521b7-6a60-4ef6-8f83-ea9e552fae0d", 
+            "attributes": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_02_2017 07:55:31"
+            }, 
+            "segment": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_02_2017 07:55:31"
+            }, 
+            "createdAt": 1509589536, 
+            "utime": "1509589531"
+        }, 
+        {
+            "rtime": 1509590906, 
+            "eventTime": 1509572902, 
+            "user_id": "20584f9fd1c5165d7e09a9a9d7e5b405e82a1bd3", 
+            "did": "197cf392-7177-4909-bf5a-3346c0a449e8", 
+            "mtimestamp": 1509590902589, 
+            "key": "CharacterUnlockCount", 
+            "sid": "7b22cffb-cf23-4239-841e-8a20c26d1210", 
+            "attributes": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_01_2017 21:48:22"
+            }, 
+            "segment": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_01_2017 21:48:22"
+            }, 
+            "createdAt": 1509590906, 
+            "utime": "1509590902"
+        }, 
+        {
+            "rtime": 1509590912, 
+            "eventTime": 1509572908, 
+            "user_id": "20584f9fd1c5165d7e09a9a9d7e5b405e82a1bd3", 
+            "did": "197cf392-7177-4909-bf5a-3346c0a449e8", 
+            "mtimestamp": 1509590908183, 
+            "key": "CharacterUnlockCount", 
+            "sid": "7b22cffb-cf23-4239-841e-8a20c26d1210", 
+            "attributes": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_01_2017 21:48:28"
+            }, 
+            "segment": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_01_2017 21:48:28"
+            }, 
+            "createdAt": 1509590912, 
+            "utime": "1509590908"
+        }, 
+        {
+            "rtime": 1509590915, 
+            "eventTime": 1509572910, 
+            "user_id": "20584f9fd1c5165d7e09a9a9d7e5b405e82a1bd3", 
+            "did": "197cf392-7177-4909-bf5a-3346c0a449e8", 
+            "mtimestamp": 1509590910395, 
+            "key": "CharacterUnlockCount", 
+            "sid": "7b22cffb-cf23-4239-841e-8a20c26d1210", 
+            "attributes": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_01_2017 21:48:30"
+            }, 
+            "segment": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_01_2017 21:48:30"
+            }, 
+            "createdAt": 1509590914, 
+            "utime": "1509590910"
+        }, 
+        {
+            "rtime": 1509590916, 
+            "eventTime": 1509572912, 
+            "user_id": "20584f9fd1c5165d7e09a9a9d7e5b405e82a1bd3", 
+            "did": "197cf392-7177-4909-bf5a-3346c0a449e8", 
+            "mtimestamp": 1509590912226, 
+            "key": "CharacterUnlockCount", 
+            "sid": "7b22cffb-cf23-4239-841e-8a20c26d1210", 
+            "attributes": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_01_2017 21:48:32"
+            }, 
+            "segment": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_01_2017 21:48:32"
+            }, 
+            "createdAt": 1509590916, 
+            "utime": "1509590912"
+        }, 
+        {
+            "rtime": 1509590918, 
+            "eventTime": 1509572914, 
+            "user_id": "20584f9fd1c5165d7e09a9a9d7e5b405e82a1bd3", 
+            "did": "197cf392-7177-4909-bf5a-3346c0a449e8", 
+            "mtimestamp": 1509590914257, 
+            "key": "CharacterUnlockCount", 
+            "sid": "7b22cffb-cf23-4239-841e-8a20c26d1210", 
+            "attributes": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_01_2017 21:48:34"
+            }, 
+            "segment": {
+                "PlayerId": "b95006422a308b4f846f73022a9dd258", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_01_2017 21:48:34"
+            }, 
+            "createdAt": 1509590919, 
+            "utime": "1509590914"
+        }, 
+        {
+            "rtime": 1509594836, 
+            "eventTime": 1509614631, 
+            "user_id": "7f812d8b40d6a6e3fc7de3a5fa6705ca266a3e82", 
+            "did": "de2d73fc-cfdf-4796-aaf4-5ad628aaa72c", 
+            "mtimestamp": 1509594831739, 
+            "key": "CharacterUnlockCount", 
+            "sid": "f3628079-fdfe-47c1-8207-bdf4053ba511", 
+            "attributes": {
+                "PlayerId": "c3d72b3baa6ca5591bdf9bcf6ab32407", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_02_2017 09:23:51"
+            }, 
+            "segment": {
+                "PlayerId": "c3d72b3baa6ca5591bdf9bcf6ab32407", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_02_2017 09:23:51"
+            }, 
+            "createdAt": 1509594835, 
+            "utime": "1509594831"
+        }, 
+        {
+            "rtime": 1509604816, 
+            "eventTime": 1509624611, 
+            "user_id": "cb785c982d939f40b36fbaa8098aaabcd41e7e84", 
+            "did": "01bd0712-1e73-4930-a217-2b9ea0948afb", 
+            "mtimestamp": 1509604811160, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eb82f188-4359-4aff-a339-938e19b4665a", 
+            "attributes": {
+                "PlayerId": "68aa42a2cbc3d2636b56930a15b25eed", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_02_2017 12:10:11"
+            }, 
+            "segment": {
+                "PlayerId": "68aa42a2cbc3d2636b56930a15b25eed", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_02_2017 12:10:11"
+            }, 
+            "createdAt": 1509604816, 
+            "utime": "1509604811"
+        }, 
+        {
+            "rtime": 1509604820, 
+            "eventTime": 1509624614, 
+            "user_id": "cb785c982d939f40b36fbaa8098aaabcd41e7e84", 
+            "did": "01bd0712-1e73-4930-a217-2b9ea0948afb", 
+            "mtimestamp": 1509604814091, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eb82f188-4359-4aff-a339-938e19b4665a", 
+            "attributes": {
+                "PlayerId": "68aa42a2cbc3d2636b56930a15b25eed", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_02_2017 12:10:14"
+            }, 
+            "segment": {
+                "PlayerId": "68aa42a2cbc3d2636b56930a15b25eed", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_02_2017 12:10:14"
+            }, 
+            "createdAt": 1509604820, 
+            "utime": "1509604814"
+        }, 
+        {
+            "rtime": 1509614806, 
+            "eventTime": 1509634598, 
+            "user_id": "06a85b047ae176e15c022b89676fc42fbd95a458", 
+            "did": "66fe9bd5-35bb-49e4-9afa-347d9156f534", 
+            "mtimestamp": 1509614798836, 
+            "key": "CharacterUnlockCount", 
+            "sid": "a4dbede9-25a0-46e1-97ea-10ea53c429ab", 
+            "attributes": {
+                "PlayerId": "46bb305f61b5126cf18a05686124d89d", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_02_2017 14:56:38"
+            }, 
+            "segment": {
+                "PlayerId": "46bb305f61b5126cf18a05686124d89d", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_02_2017 14:56:38"
+            }, 
+            "createdAt": 1509614805, 
+            "utime": "1509614798"
+        }, 
+        {
+            "rtime": 1509615169, 
+            "eventTime": 1509634964, 
+            "user_id": "b19457ed0330004374d4d3e3b82e9a910545e942", 
+            "did": "b9f64be8-9201-4eb5-b04a-362e58c833e0", 
+            "mtimestamp": 1509615164004, 
+            "key": "CharacterUnlockCount", 
+            "sid": "dedfa78c-6eb6-439a-8e71-fec74cdc3999", 
+            "attributes": {
+                "PlayerId": "8fb1644b0403ad08d59da96aeff7cb6d", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_02_2017 15:02:43"
+            }, 
+            "segment": {
+                "PlayerId": "8fb1644b0403ad08d59da96aeff7cb6d", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_02_2017 15:02:43"
+            }, 
+            "createdAt": 1509615169, 
+            "utime": "1509615164"
+        }, 
+        {
+            "rtime": 1509618354, 
+            "eventTime": 1509638146, 
+            "user_id": "d777bc6b9b679b53f5e2bc44976a9a02977f20fc", 
+            "did": "5aa7d1a1-d4e4-4480-8e59-0d6230955992", 
+            "mtimestamp": 1509618346889, 
+            "key": "CharacterUnlockCount", 
+            "sid": "49889ca1-47ff-4b2d-8e56-d18d571f8406", 
+            "attributes": {
+                "PlayerId": "058dd46daa459e30989ede22219764e0", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_02_2017 15:55:46"
+            }, 
+            "segment": {
+                "PlayerId": "058dd46daa459e30989ede22219764e0", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_02_2017 15:55:46"
+            }, 
+            "createdAt": 1509618353, 
+            "utime": "1509618347"
+        }, 
+        {
+            "rtime": 1509620082, 
+            "eventTime": 1509607471, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509587671818, 
+            "key": "CharacterUnlockCount", 
+            "sid": "988325c5-f010-499c-954b-c245bf81d9a5", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_02_2017 07:24:31"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_02_2017 07:24:31"
+            }, 
+            "createdAt": 1509620082, 
+            "utime": "1509620074"
+        }, 
+        {
+            "rtime": 1509620091, 
+            "eventTime": 1509606625, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509586825231, 
+            "key": "CharacterUnlockCount", 
+            "sid": "988325c5-f010-499c-954b-c245bf81d9a5", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_02_2017 07:10:25"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_02_2017 07:10:25"
+            }, 
+            "createdAt": 1509620091, 
+            "utime": "1509620083"
+        }, 
+        {
+            "rtime": 1509620384, 
+            "eventTime": 1509640176, 
+            "user_id": "bb6055794afd0d7d84b13cc3b624dc7274dbda05", 
+            "did": "5f173f38-1ee9-448f-a399-2619235d1921", 
+            "mtimestamp": 1509620376588, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1c290418-0a98-4b70-880e-1955e9792c5f", 
+            "attributes": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "600", 
+                "Level": "3", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_02_2017 16:29:36"
+            }, 
+            "segment": {
+                "PlayerId": "25faf018d0eef9d633c4b1be9d28a704", 
+                "NoOfCoins": "600", 
+                "Level": "3", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_02_2017 16:29:36"
+            }, 
+            "createdAt": 1509620383, 
+            "utime": "1509620376"
+        }, 
+        {
+            "rtime": 1509620449, 
+            "eventTime": 1509640242, 
+            "user_id": "718840f1dcaf887a2cde9a21473fbdeb9fa2e666", 
+            "did": "c70bc0be-95d0-40f8-84cd-b43d47ffc519", 
+            "mtimestamp": 1509620442345, 
+            "key": "CharacterUnlockCount", 
+            "sid": "dd9996e3-19b0-4ebc-bad1-08734cbb743b", 
+            "attributes": {
+                "PlayerId": "e9c56957bc87cd7039efea4af331e426", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_02_2017 16:30:42"
+            }, 
+            "segment": {
+                "PlayerId": "e9c56957bc87cd7039efea4af331e426", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_02_2017 16:30:42"
+            }, 
+            "createdAt": 1509620450, 
+            "utime": "1509620442"
+        }, 
+        {
+            "rtime": 1509620452, 
+            "eventTime": 1509640244, 
+            "user_id": "718840f1dcaf887a2cde9a21473fbdeb9fa2e666", 
+            "did": "c70bc0be-95d0-40f8-84cd-b43d47ffc519", 
+            "mtimestamp": 1509620444723, 
+            "key": "CharacterUnlockCount", 
+            "sid": "dd9996e3-19b0-4ebc-bad1-08734cbb743b", 
+            "attributes": {
+                "PlayerId": "e9c56957bc87cd7039efea4af331e426", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_02_2017 16:30:44"
+            }, 
+            "segment": {
+                "PlayerId": "e9c56957bc87cd7039efea4af331e426", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_02_2017 16:30:44"
+            }, 
+            "createdAt": 1509620453, 
+            "utime": "1509620445"
+        }, 
+        {
+            "rtime": 1509620878, 
+            "eventTime": 1509640672, 
+            "user_id": "718840f1dcaf887a2cde9a21473fbdeb9fa2e666", 
+            "did": "c70bc0be-95d0-40f8-84cd-b43d47ffc519", 
+            "mtimestamp": 1509620872139, 
+            "key": "CharacterUnlockCount", 
+            "sid": "dd9996e3-19b0-4ebc-bad1-08734cbb743b", 
+            "attributes": {
+                "PlayerId": "e9c56957bc87cd7039efea4af331e426", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_02_2017 16:37:52"
+            }, 
+            "segment": {
+                "PlayerId": "e9c56957bc87cd7039efea4af331e426", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_02_2017 16:37:52"
+            }, 
+            "createdAt": 1509620879, 
+            "utime": "1509620872"
+        }, 
+        {
+            "rtime": 1509629452, 
+            "eventTime": 1509649241, 
+            "user_id": "e072aaeb2775d01e04f8b2a546f668a10cdf1a61", 
+            "did": "c3f9fe88-6f41-4df0-8e46-dc0244cfef5a", 
+            "mtimestamp": 1509629441043, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eba851e9-8400-49e6-9919-b4089aaae523", 
+            "attributes": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_02_2017 19:00:41"
+            }, 
+            "segment": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_02_2017 19:00:41"
+            }, 
+            "createdAt": 1509629452, 
+            "utime": "1509629441"
+        }, 
+        {
+            "rtime": 1509630160, 
+            "eventTime": 1509649948, 
+            "user_id": "e072aaeb2775d01e04f8b2a546f668a10cdf1a61", 
+            "did": "c3f9fe88-6f41-4df0-8e46-dc0244cfef5a", 
+            "mtimestamp": 1509630148025, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eba851e9-8400-49e6-9919-b4089aaae523", 
+            "attributes": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_02_2017 19:12:28"
+            }, 
+            "segment": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_02_2017 19:12:28"
+            }, 
+            "createdAt": 1509630160, 
+            "utime": "1509630148"
+        }, 
+        {
+            "rtime": 1509630168, 
+            "eventTime": 1509649950, 
+            "user_id": "e072aaeb2775d01e04f8b2a546f668a10cdf1a61", 
+            "did": "c3f9fe88-6f41-4df0-8e46-dc0244cfef5a", 
+            "mtimestamp": 1509630150857, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eba851e9-8400-49e6-9919-b4089aaae523", 
+            "attributes": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_02_2017 19:12:30"
+            }, 
+            "segment": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_02_2017 19:12:30"
+            }, 
+            "createdAt": 1509630168, 
+            "utime": "1509630161"
+        }, 
+        {
+            "rtime": 1509630172, 
+            "eventTime": 1509649949, 
+            "user_id": "e072aaeb2775d01e04f8b2a546f668a10cdf1a61", 
+            "did": "c3f9fe88-6f41-4df0-8e46-dc0244cfef5a", 
+            "mtimestamp": 1509630149675, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eba851e9-8400-49e6-9919-b4089aaae523", 
+            "attributes": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_02_2017 19:12:29"
+            }, 
+            "segment": {
+                "PlayerId": "0f6ce6f92963a91adf7b8c2427b45669", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_02_2017 19:12:29"
+            }, 
+            "createdAt": 1509630172, 
+            "utime": "1509630168"
+        }, 
+        {
+            "rtime": 1509630765, 
+            "eventTime": 1509645165, 
+            "user_id": "de1c66164f45dc09d59bbde0544fe6b493541ad0", 
+            "did": "b10a1d9a-f1ea-4821-8cb8-cf2a82aa72f2", 
+            "mtimestamp": 1509630765037, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c15e99a0-2987-4611-b58a-7bc25c92faee", 
+            "attributes": {
+                "PlayerId": "8232d5db752897e9f93aa05088eddbe7", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_02_2017 17:52:45"
+            }, 
+            "segment": {
+                "PlayerId": "8232d5db752897e9f93aa05088eddbe7", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_02_2017 17:52:45"
+            }, 
+            "createdAt": 1509630765, 
+            "utime": "1509630765"
+        }, 
+        {
+            "rtime": 1509634857, 
+            "eventTime": 1509654518, 
+            "user_id": "9a02d7637289d0b693e0c88843d34b1fd3eb4029", 
+            "did": "c602ce7e-da61-49f9-8765-ebadb57be12e", 
+            "mtimestamp": 1509634718873, 
+            "key": "CharacterUnlockCount", 
+            "sid": "92e3d37f-702f-4dfa-9868-103ad2b5e379", 
+            "attributes": {
+                "PlayerId": "b85785c82fab6f4d5ee5e4a477c163f1", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_02_2017 20:28:38"
+            }, 
+            "segment": {
+                "PlayerId": "b85785c82fab6f4d5ee5e4a477c163f1", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_02_2017 20:28:38"
+            }, 
+            "createdAt": 1509634857, 
+            "utime": "1509634858"
+        }, 
+        {
+            "rtime": 1509640630, 
+            "eventTime": 1509652745, 
+            "user_id": "b47be698d672b7e77bdda0de2ae5bd21f6f72093", 
+            "did": "4c896166-b73b-4ac8-bd90-212127e503dc", 
+            "mtimestamp": 1509632945488, 
+            "key": "CharacterUnlockCount", 
+            "sid": "4c477b4e-9e23-450d-bd26-341dd8cc4a9e", 
+            "attributes": {
+                "PlayerId": "63144f1cbc224168804f5587be5bf5ce", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_02_2017 19:59:05"
+            }, 
+            "segment": {
+                "PlayerId": "63144f1cbc224168804f5587be5bf5ce", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_02_2017 19:59:05"
+            }, 
+            "createdAt": 1509640630, 
+            "utime": "1509640625"
+        }, 
+        {
+            "rtime": 1509672602, 
+            "eventTime": 1509737337, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509758937804, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_03_2017 19:28:57"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_03_2017 19:28:57"
+            }, 
+            "createdAt": 1509672601, 
+            "utime": "1509758937"
+        }, 
+        {
+            "rtime": 1509673389, 
+            "eventTime": 1509738129, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509759729149, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_03_2017 19:42:09"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_03_2017 19:42:09"
+            }, 
+            "createdAt": 1509673389, 
+            "utime": "1509759729"
+        }, 
+        {
+            "rtime": 1509673392, 
+            "eventTime": 1509738133, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509759733086, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_03_2017 19:42:13"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_03_2017 19:42:13"
+            }, 
+            "createdAt": 1509673391, 
+            "utime": "1509759733"
+        }, 
+        {
+            "rtime": 1509673392, 
+            "eventTime": 1509738134, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509759734654, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_03_2017 19:42:14"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_03_2017 19:42:14"
+            }, 
+            "createdAt": 1509673393, 
+            "utime": "1509759735"
+        }, 
+        {
+            "rtime": 1509673394, 
+            "eventTime": 1509738136, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509759736064, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_03_2017 19:42:16"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_03_2017 19:42:16"
+            }, 
+            "createdAt": 1509673394, 
+            "utime": "1509759736"
+        }, 
+        {
+            "rtime": 1509673395, 
+            "eventTime": 1509738137, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509759737571, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_03_2017 19:42:17"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_03_2017 19:42:17"
+            }, 
+            "createdAt": 1509673397, 
+            "utime": "1509759738"
+        }, 
+        {
+            "rtime": 1509673399, 
+            "eventTime": 1509738140, 
+            "user_id": "cc45ad35e4f31e155585da1b1c3488e2e3132843", 
+            "did": "5adac03c-6e8a-42f3-97a5-379d848e1247", 
+            "mtimestamp": 1509759740974, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c6e1419d-07fb-4da4-8b8b-5f351a478213", 
+            "attributes": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_03_2017 19:42:20"
+            }, 
+            "segment": {
+                "PlayerId": "8354238612f4c40e9fb5b63752047f6a", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_03_2017 19:42:20"
+            }, 
+            "createdAt": 1509673399, 
+            "utime": "1509759741"
+        }, 
+        {
+            "rtime": 1509676501, 
+            "eventTime": 1509696298, 
+            "user_id": "ef5ca77ccb6d6f7563b28919ba79075ae367de5d", 
+            "did": "689a5018-4bf0-4987-8897-9b0309da7e6c", 
+            "mtimestamp": 1509676498504, 
+            "key": "CharacterUnlockCount", 
+            "sid": "b6f5b2db-fb66-45dd-979e-2fe3b0e4676f", 
+            "attributes": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_03_2017 08:04:58"
+            }, 
+            "segment": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_03_2017 08:04:58"
+            }, 
+            "createdAt": 1509676501, 
+            "utime": "1509676498"
+        }, 
+        {
+            "rtime": 1509676797, 
+            "eventTime": 1509696593, 
+            "user_id": "ef5ca77ccb6d6f7563b28919ba79075ae367de5d", 
+            "did": "689a5018-4bf0-4987-8897-9b0309da7e6c", 
+            "mtimestamp": 1509676793491, 
+            "key": "CharacterUnlockCount", 
+            "sid": "b6f5b2db-fb66-45dd-979e-2fe3b0e4676f", 
+            "attributes": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_03_2017 08:09:53"
+            }, 
+            "segment": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_03_2017 08:09:53"
+            }, 
+            "createdAt": 1509676795, 
+            "utime": "1509676793"
+        }, 
+        {
+            "rtime": 1509676804, 
+            "eventTime": 1509696601, 
+            "user_id": "ef5ca77ccb6d6f7563b28919ba79075ae367de5d", 
+            "did": "689a5018-4bf0-4987-8897-9b0309da7e6c", 
+            "mtimestamp": 1509676801967, 
+            "key": "CharacterUnlockCount", 
+            "sid": "b6f5b2db-fb66-45dd-979e-2fe3b0e4676f", 
+            "attributes": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_03_2017 08:10:01"
+            }, 
+            "segment": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_03_2017 08:10:01"
+            }, 
+            "createdAt": 1509676804, 
+            "utime": "1509676802"
+        }, 
+        {
+            "rtime": 1509676808, 
+            "eventTime": 1509696606, 
+            "user_id": "ef5ca77ccb6d6f7563b28919ba79075ae367de5d", 
+            "did": "689a5018-4bf0-4987-8897-9b0309da7e6c", 
+            "mtimestamp": 1509676806131, 
+            "key": "CharacterUnlockCount", 
+            "sid": "b6f5b2db-fb66-45dd-979e-2fe3b0e4676f", 
+            "attributes": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_03_2017 08:10:06"
+            }, 
+            "segment": {
+                "PlayerId": "6cd1f777b97d0f78de11e17ba5b4c81d", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_03_2017 08:10:06"
+            }, 
+            "createdAt": 1509676808, 
+            "utime": "1509676806"
+        }, 
+        {
+            "rtime": 1509683933, 
+            "eventTime": 1509709128, 
+            "user_id": "0c8e20f13c1ea5708c632f09f2a8c412bdce2bac", 
+            "did": "cabc11a3-1593-4a2e-96b7-b8190d567f3a", 
+            "mtimestamp": 1509683928158, 
+            "key": "CharacterUnlockCount", 
+            "sid": "54b87240-8430-4811-990f-c84af15a5929", 
+            "attributes": {
+                "PlayerId": "6b4c97d7c2b613e213317faefc481976", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_03_2017 11:38:48"
+            }, 
+            "segment": {
+                "PlayerId": "6b4c97d7c2b613e213317faefc481976", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_03_2017 11:38:48"
+            }, 
+            "createdAt": 1509683933, 
+            "utime": "1509683928"
+        }, 
+        {
+            "rtime": 1509690576, 
+            "eventTime": 1509694172, 
+            "user_id": "9b2728503218ace8519dd5e4492ca51d7250ca22", 
+            "did": "193da0d0-53f8-4ced-8f58-dd10b41872d4", 
+            "mtimestamp": 1509690572097, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6ccdda81-cc9f-4e9e-896a-3d8047f566db", 
+            "attributes": {
+                "PlayerId": "57a54b219f7547d62599478dc1058e89", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_03_2017 07:29:32"
+            }, 
+            "segment": {
+                "PlayerId": "57a54b219f7547d62599478dc1058e89", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_03_2017 07:29:32"
+            }, 
+            "createdAt": 1509690576, 
+            "utime": "1509690572"
+        }, 
+        {
+            "rtime": 1509690577, 
+            "eventTime": 1509694173, 
+            "user_id": "9b2728503218ace8519dd5e4492ca51d7250ca22", 
+            "did": "193da0d0-53f8-4ced-8f58-dd10b41872d4", 
+            "mtimestamp": 1509690573559, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6ccdda81-cc9f-4e9e-896a-3d8047f566db", 
+            "attributes": {
+                "PlayerId": "57a54b219f7547d62599478dc1058e89", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_03_2017 07:29:33"
+            }, 
+            "segment": {
+                "PlayerId": "57a54b219f7547d62599478dc1058e89", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_03_2017 07:29:33"
+            }, 
+            "createdAt": 1509690578, 
+            "utime": "1509690573"
+        }, 
+        {
+            "rtime": 1509690578, 
+            "eventTime": 1509694176, 
+            "user_id": "9b2728503218ace8519dd5e4492ca51d7250ca22", 
+            "did": "193da0d0-53f8-4ced-8f58-dd10b41872d4", 
+            "mtimestamp": 1509690576473, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6ccdda81-cc9f-4e9e-896a-3d8047f566db", 
+            "attributes": {
+                "PlayerId": "57a54b219f7547d62599478dc1058e89", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_03_2017 07:29:36"
+            }, 
+            "segment": {
+                "PlayerId": "57a54b219f7547d62599478dc1058e89", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_03_2017 07:29:36"
+            }, 
+            "createdAt": 1509690581, 
+            "utime": "1509690576"
+        }, 
+        {
+            "rtime": 1509695875, 
+            "eventTime": 1509715669, 
+            "user_id": "9dbda8bdad6435b7b1907f34928755017805a301", 
+            "did": "85edc677-6ff3-42a9-8afa-d3f3e3022142", 
+            "mtimestamp": 1509695869287, 
+            "key": "CharacterUnlockCount", 
+            "sid": "726c8801-0573-4515-9af1-bbdacdd88ae6", 
+            "attributes": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_03_2017 13:27:49"
+            }, 
+            "segment": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_03_2017 13:27:49"
+            }, 
+            "createdAt": 1509695872, 
+            "utime": "1509695869"
+        }, 
+        {
+            "rtime": 1509695878, 
+            "eventTime": 1509715671, 
+            "user_id": "9dbda8bdad6435b7b1907f34928755017805a301", 
+            "did": "85edc677-6ff3-42a9-8afa-d3f3e3022142", 
+            "mtimestamp": 1509695871202, 
+            "key": "CharacterUnlockCount", 
+            "sid": "726c8801-0573-4515-9af1-bbdacdd88ae6", 
+            "attributes": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_03_2017 13:27:51"
+            }, 
+            "segment": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_03_2017 13:27:51"
+            }, 
+            "createdAt": 1509695875, 
+            "utime": "1509695872"
+        }, 
+        {
+            "rtime": 1509695881, 
+            "eventTime": 1509715674, 
+            "user_id": "9dbda8bdad6435b7b1907f34928755017805a301", 
+            "did": "85edc677-6ff3-42a9-8afa-d3f3e3022142", 
+            "mtimestamp": 1509695874560, 
+            "key": "CharacterUnlockCount", 
+            "sid": "726c8801-0573-4515-9af1-bbdacdd88ae6", 
+            "attributes": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_03_2017 13:27:54"
+            }, 
+            "segment": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_03_2017 13:27:54"
+            }, 
+            "createdAt": 1509695879, 
+            "utime": "1509695875"
+        }, 
+        {
+            "rtime": 1509695883, 
+            "eventTime": 1509715672, 
+            "user_id": "9dbda8bdad6435b7b1907f34928755017805a301", 
+            "did": "85edc677-6ff3-42a9-8afa-d3f3e3022142", 
+            "mtimestamp": 1509695872861, 
+            "key": "CharacterUnlockCount", 
+            "sid": "726c8801-0573-4515-9af1-bbdacdd88ae6", 
+            "attributes": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_03_2017 13:27:52"
+            }, 
+            "segment": {
+                "PlayerId": "c5d11f57087162552a01f8ca9604cc93", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_03_2017 13:27:52"
+            }, 
+            "createdAt": 1509695883, 
+            "utime": "1509695878"
+        }, 
+        {
+            "rtime": 1509705542, 
+            "eventTime": 1509725336, 
+            "user_id": "e2ecf06a4630ba1fc7b0164b60c22ac39002fc38", 
+            "did": "c56a1ed3-b194-4dea-8bfa-5a1d220c1988", 
+            "mtimestamp": 1509705536827, 
+            "key": "CharacterUnlockCount", 
+            "sid": "af7ba221-2b6d-4ca6-82b5-2c3dcba9ba99", 
+            "attributes": {
+                "PlayerId": "dcd50b0312a411a934e1896f61878c39", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_03_2017 16:08:56"
+            }, 
+            "segment": {
+                "PlayerId": "dcd50b0312a411a934e1896f61878c39", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_03_2017 16:08:56"
+            }, 
+            "createdAt": 1509705542, 
+            "utime": "1509705537"
+        }, 
+        {
+            "rtime": 1509710287, 
+            "eventTime": 1509730086, 
+            "user_id": "7f812d8b40d6a6e3fc7de3a5fa6705ca266a3e82", 
+            "did": "de2d73fc-cfdf-4796-aaf4-5ad628aaa72c", 
+            "mtimestamp": 1509710286241, 
+            "key": "CharacterUnlockCount", 
+            "sid": "eb542cb1-ff3e-49a3-ac4d-f40be3c2a0d9", 
+            "attributes": {
+                "PlayerId": "c3d72b3baa6ca5591bdf9bcf6ab32407", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_03_2017 17:28:06"
+            }, 
+            "segment": {
+                "PlayerId": "c3d72b3baa6ca5591bdf9bcf6ab32407", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_03_2017 17:28:06"
+            }, 
+            "createdAt": 1509710290, 
+            "utime": "1509710286"
+        }, 
+        {
+            "rtime": 1509712693, 
+            "eventTime": 1509691081, 
+            "user_id": "75e9da40c30a26f3891030871da61931b642857f", 
+            "did": "c8a078be-2531-4ced-ab9f-4ee039d0ed29", 
+            "mtimestamp": 1509712681644, 
+            "key": "CharacterUnlockCount", 
+            "sid": "0fe3369c-4081-4ee8-9e14-fce42436dfe4", 
+            "attributes": {
+                "PlayerId": "e16a6248251acdb05ff414eab6b63338", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_03_2017 06:38:01"
+            }, 
+            "segment": {
+                "PlayerId": "e16a6248251acdb05ff414eab6b63338", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_03_2017 06:38:01"
+            }, 
+            "createdAt": 1509712697, 
+            "utime": "1509712681"
+        }, 
+        {
+            "rtime": 1509722296, 
+            "eventTime": 1509747488, 
+            "user_id": "5efeaf052dc1ce3a32e064134454ac00b3f9db12", 
+            "did": "615218c9-dc2d-4083-9dcc-56ed46425a7e", 
+            "mtimestamp": 1509722288776, 
+            "key": "CharacterUnlockCount", 
+            "sid": "a4b5abf7-7827-400e-919f-5b54e6d3b3a6", 
+            "attributes": {
+                "PlayerId": "2af349f23d41e76dd7949e3b831370f1", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_03_2017 22:18:08"
+            }, 
+            "segment": {
+                "PlayerId": "2af349f23d41e76dd7949e3b831370f1", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_03_2017 22:18:08"
+            }, 
+            "createdAt": 1509722296, 
+            "utime": "1509722288"
+        }, 
+        {
+            "rtime": 1509749166, 
+            "eventTime": 1509741953, 
+            "user_id": "7f4d01f50a0a94c3f8e713f058cddcef9390993a", 
+            "did": "c0035f17-8bcb-4c18-b1c4-0120f9eead32", 
+            "mtimestamp": 1509749153277, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c13c343d-afea-46aa-88a2-f322974d343a", 
+            "attributes": {
+                "PlayerId": "b842500b65ad70630822a85fdfd45fa0", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_03_2017 20:45:53"
+            }, 
+            "segment": {
+                "PlayerId": "b842500b65ad70630822a85fdfd45fa0", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_03_2017 20:45:53"
+            }, 
+            "createdAt": 1509749170, 
+            "utime": "1509749153"
+        }, 
+        {
+            "rtime": 1509758023, 
+            "eventTime": 1509732428, 
+            "user_id": "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b", 
+            "did": "6516a631-a76b-47f3-b9ed-14ecf53e1974", 
+            "mtimestamp": 1509757628405, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1bf79983-40c0-4415-a6b4-82399f501138", 
+            "attributes": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_03_2017 18:07:08"
+            }, 
+            "segment": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_03_2017 18:07:08"
+            }, 
+            "createdAt": 1509758023, 
+            "utime": "1509758022"
+        }, 
+        {
+            "rtime": 1509758024, 
+            "eventTime": 1509731707, 
+            "user_id": "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b", 
+            "did": "6516a631-a76b-47f3-b9ed-14ecf53e1974", 
+            "mtimestamp": 1509756907870, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1bf79983-40c0-4415-a6b4-82399f501138", 
+            "attributes": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_03_2017 17:55:07"
+            }, 
+            "segment": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_03_2017 17:55:07"
+            }, 
+            "createdAt": 1509758029, 
+            "utime": "1509758023"
+        }, 
+        {
+            "rtime": 1509758030, 
+            "eventTime": 1509731538, 
+            "user_id": "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b", 
+            "did": "6516a631-a76b-47f3-b9ed-14ecf53e1974", 
+            "mtimestamp": 1509756738953, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1bf79983-40c0-4415-a6b4-82399f501138", 
+            "attributes": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_03_2017 17:52:18"
+            }, 
+            "segment": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_03_2017 17:52:18"
+            }, 
+            "createdAt": 1509758030, 
+            "utime": "1509758024"
+        }, 
+        {
+            "rtime": 1509758026, 
+            "eventTime": 1509731486, 
+            "user_id": "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b", 
+            "did": "6516a631-a76b-47f3-b9ed-14ecf53e1974", 
+            "mtimestamp": 1509756686330, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1bf79983-40c0-4415-a6b4-82399f501138", 
+            "attributes": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_03_2017 17:51:26"
+            }, 
+            "segment": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_03_2017 17:51:26"
+            }, 
+            "createdAt": 1509758026, 
+            "utime": "1509758025"
+        }, 
+        {
+            "rtime": 1509758028, 
+            "eventTime": 1509731433, 
+            "user_id": "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b", 
+            "did": "6516a631-a76b-47f3-b9ed-14ecf53e1974", 
+            "mtimestamp": 1509756633704, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1bf79983-40c0-4415-a6b4-82399f501138", 
+            "attributes": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "lali", 
+                "TimeOfEvent": "11_03_2017 17:50:33"
+            }, 
+            "segment": {
+                "PlayerId": "c0f0183e8564c575ab71371a655a9807", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "Lali", 
+                "TimeOfEvent": "11_03_2017 17:50:33"
+            }, 
+            "createdAt": 1509758028, 
+            "utime": "1509758027"
+        }, 
+        {
+            "rtime": 1509758936, 
+            "eventTime": 1509784130, 
+            "user_id": "c496c220abe77ad375d75032438956758dbf8325", 
+            "did": "a66d0332-1142-4013-a210-c2f161a4bf88", 
+            "mtimestamp": 1509758930229, 
+            "key": "CharacterUnlockCount", 
+            "sid": "acb170fa-a8ac-4d41-9fcf-6c572cd60f7f", 
+            "attributes": {
+                "PlayerId": "2864e6381dd3d66cad4ce5578c1fe6e4", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_04_2017 08:28:50"
+            }, 
+            "segment": {
+                "PlayerId": "2864e6381dd3d66cad4ce5578c1fe6e4", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_04_2017 08:28:50"
+            }, 
+            "createdAt": 1509758936, 
+            "utime": "1509758930"
+        }, 
+        {
+            "rtime": 1509759183, 
+            "eventTime": 1509784381, 
+            "user_id": "c496c220abe77ad375d75032438956758dbf8325", 
+            "did": "a66d0332-1142-4013-a210-c2f161a4bf88", 
+            "mtimestamp": 1509759181700, 
+            "key": "CharacterUnlockCount", 
+            "sid": "acb170fa-a8ac-4d41-9fcf-6c572cd60f7f", 
+            "attributes": {
+                "PlayerId": "2864e6381dd3d66cad4ce5578c1fe6e4", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_04_2017 08:33:01"
+            }, 
+            "segment": {
+                "PlayerId": "2864e6381dd3d66cad4ce5578c1fe6e4", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_04_2017 08:33:01"
+            }, 
+            "createdAt": 1509759187, 
+            "utime": "1509759181"
+        }, 
+        {
+            "rtime": 1509765794, 
+            "eventTime": 1509785587, 
+            "user_id": "7bd4e06549ea454084172391ac4b0f3c404dfe38", 
+            "did": "4d9fa3a6-1c2c-4439-b4c7-7ed96496003a", 
+            "mtimestamp": 1509765787132, 
+            "key": "CharacterUnlockCount", 
+            "sid": "14926090-6910-4ea3-861f-87e099a24da8", 
+            "attributes": {
+                "PlayerId": "c9d79bfebfbc04d03dc7e857f6bbb492", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_04_2017 08:53:07"
+            }, 
+            "segment": {
+                "PlayerId": "c9d79bfebfbc04d03dc7e857f6bbb492", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_04_2017 08:53:07"
+            }, 
+            "createdAt": 1509765790, 
+            "utime": "1509765787"
+        }, 
+        {
+            "rtime": 1509765792, 
+            "eventTime": 1509785590, 
+            "user_id": "7bd4e06549ea454084172391ac4b0f3c404dfe38", 
+            "did": "4d9fa3a6-1c2c-4439-b4c7-7ed96496003a", 
+            "mtimestamp": 1509765790151, 
+            "key": "CharacterUnlockCount", 
+            "sid": "14926090-6910-4ea3-861f-87e099a24da8", 
+            "attributes": {
+                "PlayerId": "c9d79bfebfbc04d03dc7e857f6bbb492", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_04_2017 08:53:10"
+            }, 
+            "segment": {
+                "PlayerId": "c9d79bfebfbc04d03dc7e857f6bbb492", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_04_2017 08:53:10"
+            }, 
+            "createdAt": 1509765797, 
+            "utime": "1509765790"
+        }, 
+        {
+            "rtime": 1509769221, 
+            "eventTime": 1509790812, 
+            "user_id": "a693dcd5125ad5932f14901e2d5164069657737a", 
+            "did": "e6902476-d4c7-4499-872d-2af5349e4283", 
+            "mtimestamp": 1509769212694, 
+            "key": "CharacterUnlockCount", 
+            "sid": "2a81dec1-f01c-4afa-bd7b-53774de25054", 
+            "attributes": {
+                "PlayerId": "cb2f9ffda698aca428634862e83849a4", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_04_2017 10:20:12"
+            }, 
+            "segment": {
+                "PlayerId": "cb2f9ffda698aca428634862e83849a4", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_04_2017 10:20:12"
+            }, 
+            "createdAt": 1509769216, 
+            "utime": "1509769213"
+        }, 
+        {
+            "rtime": 1509769275, 
+            "eventTime": 1509789073, 
+            "user_id": "ba63e3c6ed2ba4e2334b5c59fafa89a4c5a33590", 
+            "did": "0f786963-2115-4305-98f5-6fa745256f59", 
+            "mtimestamp": 1509769273109, 
+            "key": "CharacterUnlockCount", 
+            "sid": "857f38ca-7703-4f6d-b351-9231a76f739f", 
+            "attributes": {
+                "PlayerId": "116201bff29326672e26c4b2c3f8689c", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_04_2017 09:51:13"
+            }, 
+            "segment": {
+                "PlayerId": "116201bff29326672e26c4b2c3f8689c", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_04_2017 09:51:13"
+            }, 
+            "createdAt": 1509769280, 
+            "utime": "1509769273"
+        }, 
+        {
+            "rtime": 1509769915, 
+            "eventTime": 1509789695, 
+            "user_id": "c60f9e4a9663901d6eb98e61a7d7612825fbbd7c", 
+            "did": "d7ad4fde-ee97-416e-9508-18fdd63ae3ad", 
+            "mtimestamp": 1509769895375, 
+            "key": "CharacterUnlockCount", 
+            "sid": "aeb5d672-75e8-41a8-8919-a709ef727a40", 
+            "attributes": {
+                "PlayerId": "ea5d40b33d616159d9e8b6524dd5d4e7", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_04_2017 10:01:35"
+            }, 
+            "segment": {
+                "PlayerId": "ea5d40b33d616159d9e8b6524dd5d4e7", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_04_2017 10:01:35"
+            }, 
+            "createdAt": 1509769910, 
+            "utime": "1509769895"
+        }, 
+        {
+            "rtime": 1509779379, 
+            "eventTime": 1509800971, 
+            "user_id": "99bc0b3d3ed1dc92ce94208037fee57c197a5933", 
+            "did": "00576921-c828-4c0d-9104-3a1499b00756", 
+            "mtimestamp": 1509779371039, 
+            "key": "CharacterUnlockCount", 
+            "sid": "c1fc1033-5081-4843-95d1-b5d3d41c2551", 
+            "attributes": {
+                "PlayerId": "24ddce73cb1b4db7c6b9a943b773ce6b", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_04_2017 13:09:30"
+            }, 
+            "segment": {
+                "PlayerId": "24ddce73cb1b4db7c6b9a943b773ce6b", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_04_2017 13:09:30"
+            }, 
+            "createdAt": 1509779379, 
+            "utime": "1509779371"
+        }, 
+        {
+            "rtime": 1509780963, 
+            "_tz": 0, 
+            "user_id": "601c2a16b646620eb395600b545c36f3220a0049", 
+            "did": "659b07ee-9841-4a60-8493-f74801412776", 
+            "eventTime": 1509791705, 
+            "mtimestamp": 1509791705800, 
+            "key": "CharacterUnlockCount", 
+            "sid": "28e81259-71a7-4af8-b597-68a40b656f4d", 
+            "attributes": {
+                "PlayerId": "a63ff8012d7ba72b5826376f983354af", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_04_2017 10:35:05"
+            }, 
+            "segment": {
+                "PlayerId": "a63ff8012d7ba72b5826376f983354af", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_04_2017 10:35:05"
+            }, 
+            "createdAt": 1509780968, 
+            "utime": "1509791705"
+        }, 
+        {
+            "rtime": 1509781136, 
+            "eventTime": 1509800918, 
+            "user_id": "8800535b8b0edcaaa3f5ced39de7edbb0622f6c0", 
+            "did": "ee8c4250-7971-4406-a831-fe9c5e886884", 
+            "mtimestamp": 1509781118341, 
+            "key": "CharacterUnlockCount", 
+            "sid": "1a3baae3-69c8-4697-b062-a06c10147641", 
+            "attributes": {
+                "PlayerId": "d10460809fcc8a3a0f04264a734dc24f", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "lali", 
+                "TimeOfEvent": "11_04_2017 13:08:36"
+            }, 
+            "segment": {
+                "PlayerId": "d10460809fcc8a3a0f04264a734dc24f", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "Lali", 
+                "TimeOfEvent": "11_04_2017 13:08:36"
+            }, 
+            "createdAt": 1509781136, 
+            "utime": "1509781119"
+        }, 
+        {
+            "rtime": 1509782338, 
+            "eventTime": 1509785932, 
+            "user_id": "5bd355b0c3fc086febbe6ebec5786d924bd690a7", 
+            "did": "6f534f23-b03c-4b65-a8fa-bcb56d7307e3", 
+            "mtimestamp": 1509782332510, 
+            "key": "CharacterUnlockCount", 
+            "sid": "697cf7bf-2569-4cdb-a9aa-64145f4b8dd5", 
+            "attributes": {
+                "PlayerId": "d57d10915138a9d750454a176bf52738", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_04_2017 08:58:52"
+            }, 
+            "segment": {
+                "PlayerId": "d57d10915138a9d750454a176bf52738", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_04_2017 08:58:52"
+            }, 
+            "createdAt": 1509782333, 
+            "utime": "1509782332"
+        }, 
+        {
+            "rtime": 1509782617, 
+            "eventTime": 1509786206, 
+            "user_id": "5bd355b0c3fc086febbe6ebec5786d924bd690a7", 
+            "did": "6f534f23-b03c-4b65-a8fa-bcb56d7307e3", 
+            "mtimestamp": 1509782606599, 
+            "key": "CharacterUnlockCount", 
+            "sid": "697cf7bf-2569-4cdb-a9aa-64145f4b8dd5", 
+            "attributes": {
+                "PlayerId": "d57d10915138a9d750454a176bf52738", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_04_2017 09:03:26"
+            }, 
+            "segment": {
+                "PlayerId": "d57d10915138a9d750454a176bf52738", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_04_2017 09:03:26"
+            }, 
+            "createdAt": 1509782622, 
+            "utime": "1509782606"
+        }, 
+        {
+            "rtime": 1509783658, 
+            "eventTime": 1509796196, 
+            "user_id": "d731ee7a314a8221cb6153a715405a2939f9e5ae", 
+            "did": "fad4e4bd-a4a4-4315-98dc-7ff30734d840", 
+            "mtimestamp": 1509776396000, 
+            "key": "CharacterUnlockCount", 
+            "sid": "19555359-698d-4db4-87de-c1b10645277a", 
+            "attributes": {
+                "PlayerId": "224a317cfb2caeb56c8bbb5c5de73a2c", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "hita", 
+                "TimeOfEvent": "11_04_2017 11:49:55"
+            }, 
+            "segment": {
+                "PlayerId": "224a317cfb2caeb56c8bbb5c5de73a2c", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Hita", 
+                "TimeOfEvent": "11_04_2017 11:49:55"
+            }, 
+            "createdAt": 1509783658, 
+            "utime": "1509783651"
+        }, 
+        {
+            "rtime": 1509786967, 
+            "eventTime": 1509797766, 
+            "user_id": "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+            "did": "03a09270-a56e-4f27-b871-7df558a93ea3", 
+            "mtimestamp": 1509786966801, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6191f9f0-9618-4a77-86f1-b998c803b66a", 
+            "attributes": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "akela", 
+                "TimeOfEvent": "11_04_2017 12:16:06"
+            }, 
+            "segment": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "240", 
+                "Level": "1", 
+                "characterID": "Akela", 
+                "TimeOfEvent": "11_04_2017 12:16:06"
+            }, 
+            "createdAt": 1509786967, 
+            "utime": "1509786966"
+        }, 
+        {
+            "rtime": 1509786969, 
+            "eventTime": 1509797768, 
+            "user_id": "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+            "did": "03a09270-a56e-4f27-b871-7df558a93ea3", 
+            "mtimestamp": 1509786968677, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6191f9f0-9618-4a77-86f1-b998c803b66a", 
+            "attributes": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_04_2017 12:16:08"
+            }, 
+            "segment": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_04_2017 12:16:08"
+            }, 
+            "createdAt": 1509786975, 
+            "utime": "1509786968"
+        }, 
+        {
+            "rtime": 1509786979, 
+            "eventTime": 1509797770, 
+            "user_id": "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+            "did": "03a09270-a56e-4f27-b871-7df558a93ea3", 
+            "mtimestamp": 1509786970646, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6191f9f0-9618-4a77-86f1-b998c803b66a", 
+            "attributes": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_04_2017 12:16:10"
+            }, 
+            "segment": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_04_2017 12:16:10"
+            }, 
+            "createdAt": 1509786979, 
+            "utime": "1509786970"
+        }, 
+        {
+            "rtime": 1509786983, 
+            "eventTime": 1509797777, 
+            "user_id": "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+            "did": "03a09270-a56e-4f27-b871-7df558a93ea3", 
+            "mtimestamp": 1509786977028, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6191f9f0-9618-4a77-86f1-b998c803b66a", 
+            "attributes": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_04_2017 12:16:16"
+            }, 
+            "segment": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_04_2017 12:16:16"
+            }, 
+            "createdAt": 1509786978, 
+            "utime": "1509786977"
+        }, 
+        {
+            "rtime": 1509786981, 
+            "eventTime": 1509797779, 
+            "user_id": "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+            "did": "03a09270-a56e-4f27-b871-7df558a93ea3", 
+            "mtimestamp": 1509786979818, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6191f9f0-9618-4a77-86f1-b998c803b66a", 
+            "attributes": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_04_2017 12:16:19"
+            }, 
+            "segment": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_04_2017 12:16:19"
+            }, 
+            "createdAt": 1509786981, 
+            "utime": "1509786979"
+        }, 
+        {
+            "rtime": 1509787309, 
+            "eventTime": 1509804980, 
+            "user_id": "dc6198aa732f23ce6c62171855ee5449a069738c", 
+            "did": "02934687-f321-4124-992d-679b372723dd", 
+            "mtimestamp": 1509785180703, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e4a7ec8f-431c-4a6b-b2f0-85c1ba0233ab", 
+            "attributes": {
+                "PlayerId": "5add9a0d80d0c9a5d530274f204b9814", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "hathi", 
+                "TimeOfEvent": "11_04_2017 14:16:20"
+            }, 
+            "segment": {
+                "PlayerId": "5add9a0d80d0c9a5d530274f204b9814", 
+                "NoOfCoins": "600", 
+                "Level": "1", 
+                "characterID": "Hathi", 
+                "TimeOfEvent": "11_04_2017 14:16:20"
+            }, 
+            "createdAt": 1509787315, 
+            "utime": "1509787307"
+        }, 
+        {
+            "rtime": 1509787312, 
+            "eventTime": 1509804893, 
+            "user_id": "dc6198aa732f23ce6c62171855ee5449a069738c", 
+            "did": "02934687-f321-4124-992d-679b372723dd", 
+            "mtimestamp": 1509785093441, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e4a7ec8f-431c-4a6b-b2f0-85c1ba0233ab", 
+            "attributes": {
+                "PlayerId": "5add9a0d80d0c9a5d530274f204b9814", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_04_2017 14:14:53"
+            }, 
+            "segment": {
+                "PlayerId": "5add9a0d80d0c9a5d530274f204b9814", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_04_2017 14:14:53"
+            }, 
+            "createdAt": 1509787318, 
+            "utime": "1509787309"
+        }, 
+        {
+            "rtime": 1509787325, 
+            "eventTime": 1509798118, 
+            "user_id": "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+            "did": "03a09270-a56e-4f27-b871-7df558a93ea3", 
+            "mtimestamp": 1509787318165, 
+            "key": "CharacterUnlockCount", 
+            "sid": "6191f9f0-9618-4a77-86f1-b998c803b66a", 
+            "attributes": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_04_2017 12:21:58"
+            }, 
+            "segment": {
+                "PlayerId": "a857cc493d433382455f9f3230b84bac", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_04_2017 12:21:58"
+            }, 
+            "createdAt": 1509787319, 
+            "utime": "1509787318"
+        }, 
+        {
+            "rtime": 1509787561, 
+            "eventTime": 1509698170, 
+            "user_id": "0b96de4d6bd9c0343e6692d9b995a723f76d6ea7", 
+            "did": "0bf26b35-33a5-419a-9738-cd9e789ca8fb", 
+            "mtimestamp": 1509687370637, 
+            "key": "CharacterUnlockCount", 
+            "sid": "18d6d9bd-a9a2-4b05-aa8e-cc70dc8e237d", 
+            "attributes": {
+                "PlayerId": "138f2c0357177f128afd0a1c8260ba2d", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_03_2017 08:36:10"
+            }, 
+            "segment": {
+                "PlayerId": "138f2c0357177f128afd0a1c8260ba2d", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_03_2017 08:36:10"
+            }, 
+            "createdAt": 1509787566, 
+            "utime": "1509784051"
+        }, 
+        {
+            "rtime": 1509789992, 
+            "eventTime": 1509808562, 
+            "user_id": "2fdce57f3017881cc0be2ffb781a3022fdbdc682", 
+            "did": "eaafc4e9-c503-4661-9704-fc0e2aedcdff", 
+            "mtimestamp": 1509788762529, 
+            "key": "CharacterUnlockCount", 
+            "sid": "e6aeeabe-6727-4800-922c-77d7264b5786", 
+            "attributes": {
+                "PlayerId": "f265ded2cc01339e545e81ba84763889", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "phaona", 
+                "TimeOfEvent": "11_04_2017 15:16:02"
+            }, 
+            "segment": {
+                "PlayerId": "f265ded2cc01339e545e81ba84763889", 
+                "NoOfCoins": "220", 
+                "Level": "1", 
+                "characterID": "Phaona", 
+                "TimeOfEvent": "11_04_2017 15:16:02"
+            }, 
+            "createdAt": 1509789986, 
+            "utime": "1509789984"
+        }, 
+        {
+            "rtime": 1509793888, 
+            "eventTime": 1509815470, 
+            "user_id": "b5450f6b90153ff1f60129f8026ca170c667e753", 
+            "did": "700995fe-e55a-49b3-b394-52b5ee053b67", 
+            "mtimestamp": 1509793870937, 
+            "key": "CharacterUnlockCount", 
+            "sid": "5af175a8-a4b7-4350-8354-c57b9d5984be", 
+            "attributes": {
+                "PlayerId": "e428b1a9a701b59dddd97128cc86e455", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_04_2017 17:11:10"
+            }, 
+            "segment": {
+                "PlayerId": "e428b1a9a701b59dddd97128cc86e455", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_04_2017 17:11:10"
+            }, 
+            "createdAt": 1509793894, 
+            "utime": "1509793887"
+        }, 
+        {
+            "rtime": 1509793907, 
+            "eventTime": 1509815451, 
+            "user_id": "b5450f6b90153ff1f60129f8026ca170c667e753", 
+            "did": "700995fe-e55a-49b3-b394-52b5ee053b67", 
+            "mtimestamp": 1509793851168, 
+            "key": "CharacterUnlockCount", 
+            "sid": "5af175a8-a4b7-4350-8354-c57b9d5984be", 
+            "attributes": {
+                "PlayerId": "e428b1a9a701b59dddd97128cc86e455", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_04_2017 17:10:51"
+            }, 
+            "segment": {
+                "PlayerId": "e428b1a9a701b59dddd97128cc86e455", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_04_2017 17:10:51"
+            }, 
+            "createdAt": 1509793913, 
+            "utime": "1509793889"
+        }, 
+        {
+            "rtime": 1509793910, 
+            "eventTime": 1509815446, 
+            "user_id": "b5450f6b90153ff1f60129f8026ca170c667e753", 
+            "did": "700995fe-e55a-49b3-b394-52b5ee053b67", 
+            "mtimestamp": 1509793846129, 
+            "key": "CharacterUnlockCount", 
+            "sid": "5af175a8-a4b7-4350-8354-c57b9d5984be", 
+            "attributes": {
+                "PlayerId": "e428b1a9a701b59dddd97128cc86e455", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_04_2017 17:10:46"
+            }, 
+            "segment": {
+                "PlayerId": "e428b1a9a701b59dddd97128cc86e455", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_04_2017 17:10:46"
+            }, 
+            "createdAt": 1509793915, 
+            "utime": "1509793910"
+        }, 
+        {
+            "rtime": 1509794049, 
+            "eventTime": 1509813547, 
+            "user_id": "12461b68d3b95cecbf9df13e0cf9e2122e39b02e", 
+            "did": "6f704894-477f-41ce-98b4-a5cfcf28b680", 
+            "mtimestamp": 1509793747496, 
+            "key": "CharacterUnlockCount", 
+            "sid": "de826ea5-6038-4b84-9666-e16a8c0fccdb", 
+            "attributes": {
+                "PlayerId": "456316a1cfc1b24c3363555d7656f500", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_04_2017 16:39:07"
+            }, 
+            "segment": {
+                "PlayerId": "456316a1cfc1b24c3363555d7656f500", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_04_2017 16:39:07"
+            }, 
+            "createdAt": 1509794082, 
+            "utime": "1509794046"
+        }, 
+        {
+            "rtime": 1509796824, 
+            "eventTime": 1509627893, 
+            "user_id": "973a833f7794c9fb432a07cb324cba37b6340b94", 
+            "did": "1912cedb-cd70-439a-8bd2-6dd7a98abca3", 
+            "mtimestamp": 1509608093316, 
+            "key": "CharacterUnlockCount", 
+            "sid": "513cd3f7-7fad-4870-9cf0-85a7dda2853e", 
+            "attributes": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_02_2017 13:04:53"
+            }, 
+            "segment": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_02_2017 13:04:53"
+            }, 
+            "createdAt": 1509796830, 
+            "utime": "1509796813"
+        }, 
+        {
+            "rtime": 1509797178, 
+            "eventTime": 1509816968, 
+            "user_id": "8d6b3eed522b53feea564ea6d3fb090a29b8808e", 
+            "did": "da0bd686-42e0-444d-bd9e-6e82fd40693a", 
+            "mtimestamp": 1509797168757, 
+            "key": "CharacterUnlockCount", 
+            "sid": "60dc808b-9964-4120-893c-072df926708f", 
+            "attributes": {
+                "PlayerId": "6d511104dec3dad1f9070f14abf9d77e", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_04_2017 17:36:08"
+            }, 
+            "segment": {
+                "PlayerId": "6d511104dec3dad1f9070f14abf9d77e", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_04_2017 17:36:08"
+            }, 
+            "createdAt": 1509797178, 
+            "utime": "1509797169"
+        }, 
+        {
+            "rtime": 1509797296, 
+            "eventTime": 1509817092, 
+            "user_id": "973a833f7794c9fb432a07cb324cba37b6340b94", 
+            "did": "1912cedb-cd70-439a-8bd2-6dd7a98abca3", 
+            "mtimestamp": 1509797292650, 
+            "key": "CharacterUnlockCount", 
+            "sid": "d64fd595-e2a3-4c13-84c5-5334f4737265", 
+            "attributes": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_04_2017 17:38:12"
+            }, 
+            "segment": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_04_2017 17:38:12"
+            }, 
+            "createdAt": 1509797297, 
+            "utime": "1509797292"
+        }, 
+        {
+            "rtime": 1509797438, 
+            "eventTime": 1509817234, 
+            "user_id": "8d6b3eed522b53feea564ea6d3fb090a29b8808e", 
+            "did": "da0bd686-42e0-444d-bd9e-6e82fd40693a", 
+            "mtimestamp": 1509797434525, 
+            "key": "CharacterUnlockCount", 
+            "sid": "60dc808b-9964-4120-893c-072df926708f", 
+            "attributes": {
+                "PlayerId": "6d511104dec3dad1f9070f14abf9d77e", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "lali", 
+                "TimeOfEvent": "11_04_2017 17:40:34"
+            }, 
+            "segment": {
+                "PlayerId": "6d511104dec3dad1f9070f14abf9d77e", 
+                "NoOfCoins": "200", 
+                "Level": "1", 
+                "characterID": "Lali", 
+                "TimeOfEvent": "11_04_2017 17:40:34"
+            }, 
+            "createdAt": 1509797444, 
+            "utime": "1509797434"
+        }, 
+        {
+            "rtime": 1509797449, 
+            "eventTime": 1509817240, 
+            "user_id": "973a833f7794c9fb432a07cb324cba37b6340b94", 
+            "did": "1912cedb-cd70-439a-8bd2-6dd7a98abca3", 
+            "mtimestamp": 1509797440164, 
+            "key": "CharacterUnlockCount", 
+            "sid": "d64fd595-e2a3-4c13-84c5-5334f4737265", 
+            "attributes": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "masha", 
+                "TimeOfEvent": "11_04_2017 17:40:40"
+            }, 
+            "segment": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "250", 
+                "Level": "1", 
+                "characterID": "Masha", 
+                "TimeOfEvent": "11_04_2017 17:40:40"
+            }, 
+            "createdAt": 1509797449, 
+            "utime": "1509797440"
+        }, 
+        {
+            "rtime": 1509797446, 
+            "eventTime": 1509817243, 
+            "user_id": "973a833f7794c9fb432a07cb324cba37b6340b94", 
+            "did": "1912cedb-cd70-439a-8bd2-6dd7a98abca3", 
+            "mtimestamp": 1509797443782, 
+            "key": "CharacterUnlockCount", 
+            "sid": "d64fd595-e2a3-4c13-84c5-5334f4737265", 
+            "attributes": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_04_2017 17:40:43"
+            }, 
+            "segment": {
+                "PlayerId": "99d975143f7a92ce51b148b78285af91", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_04_2017 17:40:43"
+            }, 
+            "createdAt": 1509797453, 
+            "utime": "1509797443"
+        }, 
+        {
+            "rtime": 1509802536, 
+            "eventTime": 1509788128, 
+            "user_id": "c2c4c26c54bf0f9cab2cc54ff9bbf1b653f97310", 
+            "did": "00172ac7-dd9f-4aba-90c1-0b32b2400f22", 
+            "mtimestamp": 1509802528203, 
+            "key": "CharacterUnlockCount", 
+            "sid": "43f42071-014b-4ad3-823e-400e13b70975", 
+            "attributes": {
+                "PlayerId": "9603e18349b2fd2a08c5396e2157d30e", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "bala", 
+                "TimeOfEvent": "11_04_2017 09:35:28"
+            }, 
+            "segment": {
+                "PlayerId": "9603e18349b2fd2a08c5396e2157d30e", 
+                "NoOfCoins": "210", 
+                "Level": "1", 
+                "characterID": "Bala", 
+                "TimeOfEvent": "11_04_2017 09:35:28"
+            }, 
+            "createdAt": 1509802530, 
+            "utime": "1509802528"
+        }, 
+        {
+            "rtime": 1509806991, 
+            "eventTime": 1509826777, 
+            "user_id": "cac15f82e83df6ef9bb7adb999fac1927bb1c20e", 
+            "did": "ff7bb659-8e23-41fe-95aa-db03bd3ba21d", 
+            "mtimestamp": 1509806977254, 
+            "key": "CharacterUnlockCount", 
+            "sid": "80a44544-a9eb-4d56-89d7-22f9850e8761", 
+            "attributes": {
+                "PlayerId": "af38e93986bc407206320b7ab52987c1", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_04_2017 20:19:37"
+            }, 
+            "segment": {
+                "PlayerId": "af38e93986bc407206320b7ab52987c1", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_04_2017 20:19:37"
+            }, 
+            "createdAt": 1509806991, 
+            "utime": "1509806977"
+        }, 
+        {
+            "rtime": 1509806993, 
+            "eventTime": 1509826787, 
+            "user_id": "cac15f82e83df6ef9bb7adb999fac1927bb1c20e", 
+            "did": "ff7bb659-8e23-41fe-95aa-db03bd3ba21d", 
+            "mtimestamp": 1509806987947, 
+            "key": "CharacterUnlockCount", 
+            "sid": "80a44544-a9eb-4d56-89d7-22f9850e8761", 
+            "attributes": {
+                "PlayerId": "af38e93986bc407206320b7ab52987c1", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "wildboar", 
+                "TimeOfEvent": "11_04_2017 20:19:47"
+            }, 
+            "segment": {
+                "PlayerId": "af38e93986bc407206320b7ab52987c1", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "WildBoar", 
+                "TimeOfEvent": "11_04_2017 20:19:47"
+            }, 
+            "createdAt": 1509806999, 
+            "utime": "1509806988"
+        }, 
+        {
+            "rtime": 1509808081, 
+            "eventTime": 1509827729, 
+            "user_id": "6e507f2da4ca2f324f84b803401d5cc38f8368f9", 
+            "did": "19615118-7c26-456b-9890-07ead355390f", 
+            "mtimestamp": 1509807929595, 
+            "key": "CharacterUnlockCount", 
+            "sid": "f7de710f-f6a3-441d-87b5-ee79a7359cdf", 
+            "attributes": {
+                "PlayerId": "18c180f589f399982b8a8365bbd4a56f", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "appu", 
+                "TimeOfEvent": "11_04_2017 20:35:29"
+            }, 
+            "segment": {
+                "PlayerId": "18c180f589f399982b8a8365bbd4a56f", 
+                "NoOfCoins": "450", 
+                "Level": "1", 
+                "characterID": "Appu", 
+                "TimeOfEvent": "11_04_2017 20:35:29"
+            }, 
+            "createdAt": 1509808081, 
+            "utime": "1509807931"
+        }, 
+        {
+            "rtime": 1509808078, 
+            "eventTime": 1509827731, 
+            "user_id": "6e507f2da4ca2f324f84b803401d5cc38f8368f9", 
+            "did": "19615118-7c26-456b-9890-07ead355390f", 
+            "mtimestamp": 1509807931808, 
+            "key": "CharacterUnlockCount", 
+            "sid": "f7de710f-f6a3-441d-87b5-ee79a7359cdf", 
+            "attributes": {
+                "PlayerId": "18c180f589f399982b8a8365bbd4a56f", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_04_2017 20:35:31"
+            }, 
+            "segment": {
+                "PlayerId": "18c180f589f399982b8a8365bbd4a56f", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_04_2017 20:35:31"
+            }, 
+            "createdAt": 1509808084, 
+            "utime": "1509807934"
+        }, 
+        {
+            "rtime": 1509808866, 
+            "eventTime": 1509828664, 
+            "user_id": "97733e6fbf18355152545680c9ea26df761d8b35", 
+            "did": "746f40e3-fbcc-431c-885d-e20f87290317", 
+            "mtimestamp": 1509808864516, 
+            "key": "CharacterUnlockCount", 
+            "sid": "aa5c0a95-1082-4912-8dac-6acda1bf6b6d", 
+            "attributes": {
+                "PlayerId": "81e4d491ea4b2597f1e766cbf019e357", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "bagheera", 
+                "TimeOfEvent": "11_04_2017 20:51:04"
+            }, 
+            "segment": {
+                "PlayerId": "81e4d491ea4b2597f1e766cbf019e357", 
+                "NoOfCoins": "400", 
+                "Level": "1", 
+                "characterID": "Bagheera", 
+                "TimeOfEvent": "11_04_2017 20:51:04"
+            }, 
+            "createdAt": 1509808866, 
+            "utime": "1509808864"
+        }, 
+        {
+            "rtime": 1509829776, 
+            "eventTime": 1509811761, 
+            "user_id": "9a684c47149228d01710c91775705bc67e7acb76", 
+            "did": "b5320bc2-12c7-4270-bba3-48b01bbddc0b", 
+            "mtimestamp": 1509829761691, 
+            "key": "CharacterUnlockCount", 
+            "sid": "96cf0f97-dcb0-48df-b6b8-393de5725709", 
+            "attributes": {
+                "PlayerId": "610c6507b37e4a5289ddcf8bd3d3d11a", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "langur", 
+                "TimeOfEvent": "11_04_2017 16:09:21"
+            }, 
+            "segment": {
+                "PlayerId": "610c6507b37e4a5289ddcf8bd3d3d11a", 
+                "NoOfCoins": "150", 
+                "Level": "1", 
+                "characterID": "Langur", 
+                "TimeOfEvent": "11_04_2017 16:09:21"
+            }, 
+            "createdAt": 1509829769, 
+            "utime": "1509829762"
+        }
+    ]
+}

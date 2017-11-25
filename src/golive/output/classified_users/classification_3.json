@@ -1,0 +1,24 @@
+{
+    "classified_users": [
+        "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70", 
+        "7f812d8b40d6a6e3fc7de3a5fa6705ca266a3e82"
+    ], 
+    "offer": {
+        "level_lowerbound": 10, 
+        "amount_spent": 5, 
+        "attempts_lowerbound": 5, 
+        "consecutive_days": 3, 
+        "offer_price": 18, 
+        "offer_id": 3, 
+        "no_of_coins": 150, 
+        "time_spent": 5, 
+        "no_sessions_upperbound": 10, 
+        "multiple": true, 
+        "attempts_upperbound": 10, 
+        "offer_type": [
+            "Challenge", 
+            "Fun"
+        ], 
+        "no_sessions_lowerbound": 5
+    }
+}

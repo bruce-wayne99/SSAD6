@@ -1,0 +1,23 @@
+{
+    "classified_users": [
+        "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b"
+    ], 
+    "offer": {
+        "level_lowerbound": 5, 
+        "amount_spent": 3, 
+        "attempts_lowerbound": 5, 
+        "consecutive_days": 2, 
+        "offer_price": 3, 
+        "offer_id": 1, 
+        "no_of_coins": 50, 
+        "time_spent": 5, 
+        "no_sessions_upperbound": 2, 
+        "multiple": true, 
+        "attempts_upperbound": 10, 
+        "offer_type": [
+            "Cheat", 
+            "Price Utility"
+        ], 
+        "no_sessions_lowerbound": 2
+    }
+}

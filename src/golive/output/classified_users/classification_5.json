@@ -1,0 +1,23 @@
+{
+    "classified_users": [
+        "ef5ca77ccb6d6f7563b28919ba79075ae367de5d"
+    ], 
+    "offer": {
+        "level_lowerbound": 10, 
+        "amount_spent": 5, 
+        "attempts_lowerbound": 5, 
+        "consecutive_days": 4, 
+        "offer_price": 33, 
+        "offer_id": 5, 
+        "no_of_coins": 250, 
+        "time_spent": 5, 
+        "no_sessions_upperbound": 100, 
+        "multiple": true, 
+        "attempts_upperbound": 10, 
+        "offer_type": [
+            "Fun", 
+            "Functional"
+        ], 
+        "no_sessions_lowerbound": 10
+    }
+}

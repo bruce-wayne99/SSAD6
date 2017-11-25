@@ -1,0 +1,79 @@
+{
+  "Offers": [
+    {
+      "offer_id": 1,
+      "offer_price": 3,
+      "offer_type": ["Cheat", "Price Utility"],
+      "amount_spent": 3,
+      "consecutive_days": 2,
+      "attempts_upperbound": 10,
+      "attempts_lowerbound": 5,
+      "time_spent": 5,
+      "level_lowerbound": 5,
+      "multiple": true,
+      "no_sessions_lowerbound": 2,
+      "no_sessions_upperbound": 2,
+      "no_of_coins": 50
+    },
+    {
+      "offer_id": 2,
+      "offer_price": 8,
+      "offer_type": ["Challenge", "Price Utility"],
+      "amount_spent": 2,
+      "consecutive_days": 3,
+      "attempts_upperbound": 10,
+      "attempts_lowerbound": 5,
+      "time_spent": 5,
+      "level_lowerbound": 5,
+      "multiple": true,
+      "no_sessions_lowerbound": 5,
+      "no_sessions_upperbound": 10,
+      "no_of_coins": 100
+    },
+    {
+      "offer_id": 3,
+      "offer_price": 18,
+      "offer_type": ["Challenge", "Fun"],
+      "amount_spent": 5,
+      "consecutive_days": 3,
+      "attempts_upperbound": 10,
+      "attempts_lowerbound": 5,
+      "time_spent": 5,
+      "level_lowerbound": 10,
+      "multiple": true,
+      "no_sessions_lowerbound": 5,
+      "no_sessions_upperbound": 10,
+      "no_of_coins": 150
+    },
+    {
+      "offer_id": 4,
+      "offer_price": 23,
+      "offer_type": ["Functional"],
+      "amount_spent": 5,
+      "consecutive_days": 4,
+      "attempts_upperbound": 10,
+      "attempts_lowerbound": 5,
+      "time_spent": 5,
+      "level_lowerbound": 10,
+      "multiple": true,
+      "no_sessions_lowerbound": 5,
+      "no_sessions_upperbound": 10,
+      "no_of_coins": 200
+    },
+    {
+      "offer_id": 5,
+      "offer_price": 33,
+      "offer_type": ["Fun", "Functional"],
+      "amount_spent": 5,
+      "consecutive_days": 4,
+      "attempts_upperbound": 10,
+      "attempts_lowerbound": 5,
+      "time_spent": 5,
+      "level_lowerbound": 10,
+      "multiple": true,
+      "no_sessions_lowerbound": 10,
+      "no_sessions_upperbound": 100,
+      "no_of_coins": 250
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+    "Users_and_offers": [
+        {
+            "classified_users": [
+                "7b03eaa612cfcbdcea93f89b2726217b5c3c8d4b"
+            ],
+            "offer": {
+                "level_lowerbound": 5,
+                "amount_spent": 3,
+                "attempts_lowerbound": 5,
+                "consecutive_days": 2,
+                "offer_price": 3,
+                "offer_id": 1,
+                "no_of_coins": 50,
+                "time_spent": 5,
+                "no_sessions_upperbound": 2,
+                "multiple": true,
+                "attempts_upperbound": 10,
+                "offer_type": [
+                    "Cheat",
+                    "Price Utility"
+                ],
+                "no_sessions_lowerbound": 2
+            },
+            "generated_offer": [
+                {
+                    "Name": "Langur",
+                    "price": 3,
+                    "offerTypes": [
+                        "Cheat",
+                        "Price Utility"
+                    ]
+                }
+            ]
+        },
+        {
+            "classified_users": [
+                "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70",
+                "7f812d8b40d6a6e3fc7de3a5fa6705ca266a3e82"
+            ],
+            "offer": {
+                "level_lowerbound": 5,
+                "amount_spent": 2,
+                "attempts_lowerbound": 5,
+                "consecutive_days": 3,
+                "offer_price": 8,
+                "offer_id": 2,
+                "no_of_coins": 100,
+                "time_spent": 5,
+                "no_sessions_upperbound": 10,
+                "multiple": true,
+                "attempts_upperbound": 10,
+                "offer_type": [
+                    "Challenge",
+                    "Price Utility"
+                ],
+                "no_sessions_lowerbound": 5
+            },
+            "generated_offer": [
+                {
+                    "Name": "Board",
+                    "price": 5,
+                    "offerTypes": [
+                        "Challenge",
+                        "Fun",
+                        "Cheat"
+                    ]
+                },
+                {
+                    "Name": "Langur",
+                    "price": 3,
+                    "offerTypes": [
+                        "Cheat",
+                        "Price Utility"
+                    ]
+                }
+            ]
+        },
+        {
+            "classified_users": [
+                "00cf2cebdb37c0d981f8e3790dcc22a94bdd6d70",
+                "7f812d8b40d6a6e3fc7de3a5fa6705ca266a3e82"
+            ],
+            "offer": {
+                "level_lowerbound": 10,
+                "amount_spent": 5,
+                "attempts_lowerbound": 5,
+                "consecutive_days": 3,
+                "offer_price": 18,
+                "offer_id": 3,
+                "no_of_coins": 150,
+                "time_spent": 5,
+                "no_sessions_upperbound": 10,
+                "multiple": true,
+                "attempts_upperbound": 10,
+                "offer_type": [
+                    "Challenge",
+                    "Fun"
+                ],
+                "no_sessions_lowerbound": 5
+            },
+            "generated_offer": [
+                {
+                    "Name": "Jakala",
+                    "price": 10,
+                    "offerTypes": [
+                        "Functional",
+                        "Character Competency"
+                    ]
+                },
+                {
+                    "Name": "Board",
+                    "price": 5,
+                    "offerTypes": [
+                        "Challenge",
+                        "Fun",
+                        "Cheat"
+                    ]
+                },
+                {
+                    "Name": "Langur",
+                    "price": 3,
+                    "offerTypes": [
+                        "Cheat",
+                        "Price Utility"
+                    ]
+                }
+            ]
+        },
+        {
+            "classified_users": [],
+            "offer": {
+                "level_lowerbound": 10,
+                "amount_spent": 5,
+                "attempts_lowerbound": 5,
+                "consecutive_days": 4,
+                "offer_price": 23,
+                "offer_id": 4,
+                "no_of_coins": 200,
+                "time_spent": 5,
+                "no_sessions_upperbound": 10,
+                "multiple": true,
+                "attempts_upperbound": 10,
+                "offer_type": [
+                    "Functional"
+                ],
+                "no_sessions_lowerbound": 5
+            },
+            "generated_offer": [
+                {
+                    "Name": "Hathi",
+                    "price": 15,
+                    "offerTypes": [
+                        "Fun",
+                        "Functional"
+                    ]
+                },
+                {
+                    "Name": "Board",
+                    "price": 5,
+                    "offerTypes": [
+                        "Challenge",
+                        "Fun",
+                        "Cheat"
+                    ]
+                },
+                {
+                    "Name": "Langur",
+                    "price": 3,
+                    "offerTypes": [
+                        "Cheat",
+                        "Price Utility"
+                    ]
+                }
+            ]
+        },
+        {
+            "classified_users": [
+                "ef5ca77ccb6d6f7563b28919ba79075ae367de5d"
+            ],
+            "offer": {
+                "level_lowerbound": 10,
+                "amount_spent": 5,
+                "attempts_lowerbound": 5,
+                "consecutive_days": 4,
+                "offer_price": 33,
+                "offer_id": 5,
+                "no_of_coins": 250,
+                "time_spent": 5,
+                "no_sessions_upperbound": 100,
+                "multiple": true,
+                "attempts_upperbound": 10,
+                "offer_type": [
+                    "Fun",
+                    "Functional"
+                ],
+                "no_sessions_lowerbound": 10
+            },
+            "generated_offer": [
+                {
+                    "Name": "Hathi",
+                    "price": 15,
+                    "offerTypes": [
+                        "Fun",
+                        "Functional"
+                    ]
+                },
+                {
+                    "Name": "Jakala",
+                    "price": 10,
+                    "offerTypes": [
+                        "Functional",
+                        "Character Competency"
+                    ]
+                },
+                {
+                    "Name": "Board",
+                    "price": 5,
+                    "offerTypes": [
+                        "Challenge",
+                        "Fun",
+                        "Cheat"
+                    ]
+                },
+                {
+                    "Name": "Langur",
+                    "price": 3,
+                    "offerTypes": [
+                        "Cheat",
+                        "Price Utility"
+                    ]
+                }
+            ]
+        }
+    ]
+}
